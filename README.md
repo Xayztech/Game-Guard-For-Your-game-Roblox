@@ -4,7 +4,7 @@ This comprehensive system is designed to maintain your game's integrity by provi
 
 ---
 
-## 🚀 Installation Guide (Super Lengkap dan Detail)
+## 🚀 Installation Guide
 
 ### Step 1: Preparation and File Structure Setup
 
